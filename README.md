@@ -73,7 +73,7 @@ Run the tests:
 pytest test_weather.py
 ```
 
-For a full example on how to use this program, please refer to [demo](URL HERE).
+For a full example on how to use this program, please refer to [demo](https://www.youtube.com/watch?v=EYurr48EUa4).
 
 ## Author
 * <img src="https://avatars.githubusercontent.com/u/135356553?v=4" width="25px;"/> **Lorenzo Palazzi** [git](https://github.com/palazzilorenzo)
